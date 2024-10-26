@@ -1,0 +1,106 @@
+[
+    {
+        "recipe_image": "https://i.ibb.co.com/yRrmrkT/food1.jpg",
+        "recipe_id": "R1A2B",
+        "recipe_name": "Spaghetti Carbonara",
+        "short_description": "A classic Italian pasta dish with creamy sauce and pancetta.",
+        "ingredients": [
+            "200 g spaghetti",
+            "100 g pancetta",
+            "2 large eggs",
+            "50 g Parmesan cheese",
+            "2 cloves garlic",
+            "Salt and pepper to taste"
+        ],
+        "preparing_time": 20,
+        "calories": 450
+    },
+    {
+        "recipe_image": "https://i.ibb.co.com/3dyGKNH/food3.jpg",
+        "recipe_id": "R2B3C",
+        "recipe_name": "Chicken Tikka Masala",
+        "short_description": "Spicy and creamy chicken dish with a rich tomato-based sauce.",
+        "ingredients": [
+            "500 g chicken breast",
+            "200 ml yogurt",
+            "2 tbsp tikka masala paste",
+            "1 onion",
+            "200 ml tomato sauce",
+            "2 cloves garlic",
+            "1 tsp ginger",
+            "Salt and cilantro for garnish"
+        ],
+        "preparing_time": 40,
+        "calories": 600
+    },
+    {
+        "recipe_image": "https://i.ibb.co.com/G5C296m/food4.jpg",
+        "recipe_id": "R3C4D",
+        "recipe_name": "Vegetable Stir-Fry",
+        "short_description": "A quick and healthy stir-fry with a mix of colorful vegetables.",
+        "ingredients": [
+            "200 g bell peppers",
+            "150 g broccoli",
+            "100 g snap peas",
+            "2 tbsp soy sauce",
+            "1 tbsp olive oil",
+            "1 garlic clove",
+            "1 tsp ginger"
+        ],
+        "preparing_time": 15,
+        "calories": 250
+    },
+    {
+        "recipe_image": "https://i.ibb.co.com/YPKxwzd/food0.jpg",
+        "recipe_id": "R4D5E",
+        "recipe_name": "Beef Stroganoff",
+        "short_description": "Tender beef slices in a creamy mushroom sauce.",
+        "ingredients": [
+            "300 g beef sirloin",
+            "200 g mushrooms",
+            "1 onion",
+            "200 ml sour cream",
+            "2 tbsp flour",
+            "2 tbsp butter",
+            "Salt and pepper to taste"
+        ],
+        "preparing_time": 30,
+        "calories": 550
+    },
+    {
+        "recipe_image": "https://i.ibb.co.com/hyzShdC/food5.jpg",
+        "recipe_id": "R5E6F",
+        "recipe_name": "Greek Salad",
+        "short_description": "A fresh and tangy salad with cucumbers, tomatoes, and feta cheese.",
+        "ingredients": [
+            "1 cucumber",
+            "200 g cherry tomatoes",
+            "100 g feta cheese",
+            "1 red onion",
+            "Olives",
+            "2 tbsp olive oil",
+            "1 tbsp red wine vinegar",
+            "Salt and pepper to taste"
+        ],
+        "preparing_time": 10,
+        "calories": 200
+    },
+    {
+        "recipe_image": "https://i.ibb.co.com/nRpcWVc/food6.jpg",
+        "recipe_id": "R6F7G",
+        "recipe_name": "Chocolate Chip Cookies",
+        "short_description": "Classic cookies with gooey chocolate chips and a crispy edge.",
+        "ingredients": [
+            "200 g all-purpose flour",
+            "100 g sugar",
+            "100 g brown sugar",
+            "100 g butter",
+            "1 egg",
+            "1 tsp vanilla extract",
+            "150 g chocolate chips",
+            "1/2 tsp baking soda"
+        ],
+        "preparing_time": 25,
+        "calories": 400
+    }
+]
